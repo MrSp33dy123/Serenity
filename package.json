@@ -1,0 +1,15 @@
+{
+    "name": "mrsp33dy123.serenity",
+    "title": "Serenity - A Brackets Theme",
+    "description": "A elegant theme for Brackets designed to combine aesthetics with practicality, wrapped up in a simplistic package.",
+    "homepage": "https://github.com/MrSp33dy123/Serenity",
+    "version": "0.0.1",
+    "author": "Ollie Roozen <mrbondusa5@gmail.com> (https://github.com/MrSp33dy123)",
+    "license": "MIT",
+    "theme": {
+        "file": "serenity.less",
+        "dark": true,
+        "addModeClass": false
+    },
+    "keywords": ["theme","simple","practical","elegant","brackets","asthetically pleasing"]
+}
